@@ -1,2 +1,0 @@
-# Demo
-first repository
